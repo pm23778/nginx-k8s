@@ -1,0 +1,23 @@
+
+---
+
+
+```gitignore
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Kubernetes
+.kube/
+
+# Env files
+.env
+
