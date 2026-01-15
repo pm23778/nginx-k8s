@@ -33,6 +33,14 @@ It is suitable for learning, practice, and GitHub portfolio showcase.
 - `kubectl` configured
 
 ---
+## Step 1: Check the Service Name
+kubectl get svc -n nginx
+
+## Step 2: Forward Port
+kubectl port-forward svc/nginx-service 8080:80 -n nginx
+
+##Step 3: Access in Browser
+http://localhost:8080
 
 ## 🚀 How to Run
 
