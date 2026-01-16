@@ -1,7 +1,7 @@
 # Nginx Kubernetes Deployment
 
 This project demonstrates a basic **Kubernetes Nginx setup** using core Kubernetes resources.
-It is suitable for learning, practice, and GitHub portfolio showcase.
+It is suitable for learning, practice.
 
 ---
 
